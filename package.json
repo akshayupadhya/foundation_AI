@@ -1,0 +1,19 @@
+{
+  "name": "foundation_ai",
+  "version": "1.0.0",
+  "description": "this is a solution for the foundation AI problem impleneted in nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshayupadhya/foundation_AI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshayupadhya/foundation_AI/issues"
+  },
+  "homepage": "https://github.com/akshayupadhya/foundation_AI#readme"
+}
