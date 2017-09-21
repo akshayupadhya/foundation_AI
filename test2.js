@@ -219,7 +219,7 @@ let readFile=()=>{
             i+=1;
             
         }
-        //console.log(takenPaths)
+        console.log(takenPaths)
         console.log(acquiredPos)
     }
 BFS()
