@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/akshayupadhya/foundation_AI/issues"
   },
-  "homepage": "https://github.com/akshayupadhya/foundation_AI#readme"
+  "homepage": "https://github.com/akshayupadhya/foundation_AI#readme",
+  "dependencies": {
+    "commander": "^2.11.0"
+  }
 }
